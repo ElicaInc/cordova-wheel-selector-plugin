@@ -1,5 +1,4 @@
 #import "SelectorCordovaPlugin.h"
-
 #import <Cordova/CDVAvailability.h>
 
 
