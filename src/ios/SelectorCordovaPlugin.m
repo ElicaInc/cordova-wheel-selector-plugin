@@ -1,7 +1,6 @@
 /* use modal / unuse UIPopoverController */
 
 #import "SelectorCordovaPlugin.h"
-
 #import <Cordova/CDVAvailability.h>
 
 
